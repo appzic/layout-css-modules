@@ -2,7 +2,15 @@
     <img alt="elementid-logo" src="./logo/layout-css-modules.jpg"/>
 </p>
 
-# Layout CSS Modules
+<h1 align="center">Layout CSS Modules</h1>
+
+<p align="center">Smart way to manage IDs for frontend Javascript and Typescript projects. </p>
+
+<p align="center" style="align: center;">
+    <a href="https://github.com/appzic/layout-css-modules/blob/main/LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/appzic/layout-css-modules">
+    </a>
+</p>
 
 Layout CSS Modules is a mobile-first, twelve column system based on a flexbox layout, that takes advantage of CSS modules for simpler styling and maintenance, allowing you to easily create responsive layouts for your web applications inspired by Bootstrap.
 
@@ -42,6 +50,10 @@ import { container, row, col12, colXL4 } from "layout-css-modules/index.module.c
 </div>
 
 ```
+
+## Contributing
+
+We welcome contributions from the community! Please take a look at our [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to get started. We appreciate all kinds of contributions, from bug reports and feature requests to code contributions and documentation improvements. Thank you for considering contributing to our project!
 
 ## License
 
