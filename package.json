@@ -1,7 +1,7 @@
 {
   "name": "layout-css-modules",
   "version": "0.0.0",
-  "description": "",
+  "description": "Layout made easy with CSS modules grid system inspired by Bootstrap",
   "main": "index.js",
   "type": "module",
   "scripts": {
