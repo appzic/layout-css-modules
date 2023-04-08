@@ -18,29 +18,17 @@ npm install layout-css-modules
 
 ```astro
 ---
-import {container, row, col4, col8} from "layout-css-modules/index.module.css";
+import { container, row, col12, colXL4 } from "layout-css-modules/index.module.css";
 ---
 
 <div class:list={[container]}>
 	<div class:list={[row]}>
-		<div class:list={[col4]}>
-			<p>
-				Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, minus sed
-				magni quod et alias perspiciatis ratione vitae eaque quos unde eos
-				eveniet recusandae animi quis aut enim impedit, placeat atque maxime
-				omnis minima.
-			</p>
-		</div>
-		<div class:list={[col8]}>
-			<p>
-				Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, minus sed
-				magni quod et alias perspiciatis ratione vitae eaque quos unde eos
-				eveniet recusandae animi quis aut enim impedit, placeat atque maxime
-				omnis minima.
-			</p>
-		</div>
+		<div class:list={[col12, colXL4]}>Column</div>
+		<div class:list={[col12, colXL4]}>Column</div>
+		<div class:list={[col12, colXL4]}>Column</div>
 	</div>
 </div>
+
 ```
 
 ## License
