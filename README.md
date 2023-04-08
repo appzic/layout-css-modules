@@ -6,13 +6,13 @@
 
 <p align="center"><b>Layout made easy with CSS modules grid system inspired by Bootstrap.</b></p>
 
+<p align="center">Layout CSS Modules is a mobile-first, twelve column system based on a flexbox layout, that takes advantage of CSS modules for simpler styling and maintenance, allowing you to easily create responsive layouts for your web applications inspired by Bootstrap.</p>
+
 <p align="center" style="align: center;">
     <a href="https://github.com/appzic/layout-css-modules/blob/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/appzic/layout-css-modules">
     </a>
 </p>
-
-Layout CSS Modules is a mobile-first, twelve column system based on a flexbox layout, that takes advantage of CSS modules for simpler styling and maintenance, allowing you to easily create responsive layouts for your web applications inspired by Bootstrap.
 
 ## Features
 
