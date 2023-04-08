@@ -4,7 +4,7 @@
 
 <h1 align="center">Layout CSS Modules</h1>
 
-<p align="center">Layout made easy with CSS modules grid system inspired by Bootstrap.</p>
+<p align="center"><b>Layout made easy with CSS modules grid system inspired by Bootstrap.</b></p>
 
 <p align="center" style="align: center;">
     <a href="https://github.com/appzic/layout-css-modules/blob/main/LICENSE">
