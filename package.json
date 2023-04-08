@@ -1,0 +1,25 @@
+{
+  "name": "layout-css-modules",
+  "version": "0.3.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tcm . --watch",
+    "build": "tcm ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appzic/layout-css-modules.git"
+  },
+  "author": "Yasitha Nadeeshan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appzic/layout-css-modules/issues"
+  },
+  "homepage": "https://appzic.com/open-source-projects/layout-css-modules",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.0",
+    "typed-css-modules": "^0.7.2"
+  }
+}
