@@ -16,13 +16,15 @@
   "license": "MIT",
   "keywords": [
     "css-modules",
+    "mobile-first",
+    "flexbox-grid",
     "responsive-layout",
     "responsive-web-design",
     "css-layout",
+    "flexbox-layout",
+    "12-column",
     "css-module",
-    "bootstrap-grid-system",
-    "css-layouts",
-    "css-modules-react"
+    "bootstrap-grid-system"
   ],
   "bugs": {
     "url": "https://github.com/appzic/layout-css-modules/issues"
