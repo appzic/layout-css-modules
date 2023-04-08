@@ -4,7 +4,7 @@
 
 # Layout CSS Modules
 
-Layout CSS Modules is a CSS grid system based on Bootstrap's grid, but with the added benefits of CSS modules. With this library, you can create responsive layouts for your web applications with ease.
+Layout CSS Modules is a mobile-first, twelve column system based on a flexbox layout, that takes advantage of CSS modules for simpler styling and maintenance, allowing you to easily create responsive layouts for your web applications inspired by Bootstrap.
 
 ## Installation
 
