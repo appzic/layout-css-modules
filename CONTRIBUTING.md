@@ -34,6 +34,6 @@ Please note that layout-css-modules has a [code of conduct](CODE_OF_CONDUCT.md),
 
 ## License
 
-By contributing to layout-css-modules, you agree that your contributions will be licensed under the project's [MIT License](LICENSE).
+By contributing to layout-css-modules, you agree that your contributions will be licensed under the project's [MIT](LICENSE) License.
 
 I hope this helps! Let me know if you have any further questions.
