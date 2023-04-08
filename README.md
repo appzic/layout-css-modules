@@ -4,7 +4,7 @@
 
 <h1 align="center">Layout CSS Modules</h1>
 
-<p align="center">Smart way to manage IDs for frontend Javascript and Typescript projects. </p>
+<p align="center">Layout made easy with CSS modules grid system inspired by Bootstrap.</p>
 
 <p align="center" style="align: center;">
     <a href="https://github.com/appzic/layout-css-modules/blob/main/LICENSE">
