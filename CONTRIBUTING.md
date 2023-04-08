@@ -1,6 +1,6 @@
 # Contributing to layout-css-modules
 
-Thank you for your interest in contributing to `layout-css-modules`! We welcome all contributions and appreciate your help in making this project better.
+Thank you for your interest in contributing to **layout-css-modules**! We welcome all contributions and appreciate your help in making this project better.
 Getting Started
 
 To start contributing, you will need the following:
@@ -13,10 +13,10 @@ Once you have installed these tools, you can start by cloning the repository and
 
 ## Issues
 
-If you encounter any issues while using `layout-css-modules`, please create a new issue on GitHub. Please include as much detail as possible, including any error messages or steps to reproduce the issue.
+If you encounter any issues while using **layout-css-modules**, please create a new issue on GitHub. Please include as much detail as possible, including any error messages or steps to reproduce the issue.
 Pull Requests
 
-If you would like to contribute to `layout-css-modules`, please follow these steps:
+If you would like to contribute to **layout-css-modules**, please follow these steps:
 
 1. Fork the repository
 1. Create a new branch for your changes
@@ -30,10 +30,12 @@ Please ensure that your changes adhere to the project's code style and formattin
 
 ## Code of Conduct
 
-Please note that layout-css-modules has a [code of conduct](CODE_OF_CONDUCT.md), and all contributors are expected to follow it.
+Please note that **layout-css-modules** has a [code of conduct](CODE_OF_CONDUCT.md), and all contributors are expected to follow it.
 
 ## License
 
-By contributing to layout-css-modules, you agree that your contributions will be licensed under the project's [MIT](LICENSE) License.
+By contributing to **layout-css-modules**, you agree that your contributions will be licensed under the project's [MIT](LICENSE) License.
+
+<hr>
 
 I hope this helps! Let me know if you have any further questions.
