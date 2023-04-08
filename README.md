@@ -6,6 +6,18 @@
 
 Layout CSS Modules is a mobile-first, twelve column system based on a flexbox layout, that takes advantage of CSS modules for simpler styling and maintenance, allowing you to easily create responsive layouts for your web applications inspired by Bootstrap.
 
+## Features
+
+- Mobile-first design approach
+- Based on a flexbox layout
+- Twelve-column grid system
+- Uses CSS modules for simpler styling and maintenance
+- TypeScript support for type checking and improved development experience
+- Encapsulation of CSS rules and styles to prevent conflicts
+- Reusable styles across components for consistent designs
+- Reduced duplicate code in your application
+- Improved performance through unique class names generated at build time.
+
 ## Installation
 
 You can install Layout CSS Modules using npm:
