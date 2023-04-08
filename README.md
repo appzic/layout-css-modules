@@ -4,6 +4,8 @@
 
 # Layout CSS Modules
 
+Layout CSS Modules is a CSS grid system based on Bootstrap's grid, but with the added benefits of CSS modules. With this library, you can create responsive layouts for your web applications with ease.
+
 ## Installation
 
 You can install Layout CSS Modules using npm:
