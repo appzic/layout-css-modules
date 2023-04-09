@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/appzic/layout-css-modules/issues"
   },
-  "homepage": "https://appzic.com/open-source-projects/layout-css-modules",
+  "homepage": "https://github.com/appzic/layout-css-modules/#readme",
   "devDependencies": {
     "@changesets/cli": "^2.26.0",
     "typed-css-modules": "^0.7.2"
