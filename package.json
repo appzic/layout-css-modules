@@ -1,37 +1,37 @@
 {
-  "name": "layout-css-modules",
-  "version": "0.0.1",
-  "description": "Layout made easy with CSS modules grid system inspired by Bootstrap",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "dev": "tcm . --watch",
-    "build": "tcm ."
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/appzic/layout-css-modules.git"
-  },
-  "author": "Yasitha Nadeeshan",
-  "license": "MIT",
-  "keywords": [
-    "css-modules",
-    "mobile-first",
-    "flexbox-grid",
-    "responsive-layout",
-    "responsive-web-design",
-    "css-layout",
-    "flexbox-layout",
-    "12-column",
-    "css-module",
-    "bootstrap-grid-system"
-  ],
-  "bugs": {
-    "url": "https://github.com/appzic/layout-css-modules/issues"
-  },
-  "homepage": "https://github.com/appzic/layout-css-modules/#readme",
-  "devDependencies": {
-    "@changesets/cli": "^2.26.0",
-    "typed-css-modules": "^0.7.2"
-  }
+    "name": "layout-css-modules",
+    "version": "0.0.1",
+    "description": "Layout made easy with CSS modules grid system inspired by Bootstrap",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "tcm . --watch",
+        "build": "tcm ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/appzic/layout-css-modules.git"
+    },
+    "author": "Yasitha Nadeeshan",
+    "license": "MIT",
+    "keywords": [
+        "css-modules",
+        "mobile-first",
+        "flexbox-grid",
+        "responsive-layout",
+        "responsive-web-design",
+        "css-layout",
+        "flexbox-layout",
+        "12-column",
+        "css-module",
+        "bootstrap-grid-system"
+    ],
+    "bugs": {
+        "url": "https://github.com/appzic/layout-css-modules/issues"
+    },
+    "homepage": "https://appzic.com/open-source-projects/layout-css-modules",
+    "devDependencies": {
+        "@changesets/cli": "^2.26.0",
+        "typed-css-modules": "^0.7.2"
+    }
 }
