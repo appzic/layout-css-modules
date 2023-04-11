@@ -12,10 +12,20 @@
     </a>
 </p>
 
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+## Introduction
 Layout CSS Modules is a mobile-first, twelve column system based on a flexbox layout, that takes advantage of CSS modules for simpler styling and maintenance, allowing you to easily create responsive layouts for your web applications inspired by Bootstrap.
 
 ## Features
-
 - Mobile-first design approach
 - Based on a flexbox layout
 - Twelve-column grid system
