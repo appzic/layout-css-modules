@@ -10,7 +10,8 @@
                 "editor.detectIndentation": false
             },
             "extensions": [
-                "christian-kohler.path-intellisense"
+                "christian-kohler.path-intellisense",
+                "yzhang.markdown-all-in-one"
             ]
         }
     },
