@@ -69,8 +69,8 @@ import { container, row, col12, colXL4 } from "layout-css-modules/index.module.c
 
 ## Contributing
 
-We welcome contributions from the community! Please take a look at our [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to get started. We appreciate all kinds of contributions, from bug reports and feature requests to code contributions and documentation improvements. Thank you for considering contributing to our project!
+We welcome contributions from the community! Please take a look at our [CONTRIBUTING.md](https://github.com/appzic/layout-css-modules/blob/main/CONTRIBUTING.md) file for more information on how to get started. We appreciate all kinds of contributions, from bug reports and feature requests to code contributions and documentation improvements. Thank you for considering contributing to our project!
 
 ## License
 
-Layout CSS Modules is licensed under the [MIT](./LICENSE) License.
+Layout CSS Modules is licensed under the [MIT](https://github.com/appzic/layout-css-modules/blob/main/LICENSE) License.
