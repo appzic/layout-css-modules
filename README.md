@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="elementid-logo" src="./logo/layout-css-modules.jpg"/>
+    <img alt="layout-css-modules logo" src="./logo/layout-css-modules.jpg"/>
 </p>
 
 <h1 align="center">Layout CSS Modules</h1>
@@ -7,6 +7,12 @@
 <p align="center"><b>Layout made easy with CSS modules grid system inspired by Bootstrap.</b></p>
 
 <p align="center" style="align: center;">
+    <a href="https://www.npmjs.com/package/layout-css-modules">
+        <img alt="npm" src="https://img.shields.io/npm/v/layout-css-modules">
+    </a>
+    <a href="https://www.npmjs.com/package/layout-css-modules">
+        <img alt="npm" src="https://img.shields.io/npm/dw/layout-css-modules">
+    </a>
     <a href="https://github.com/appzic/layout-css-modules/blob/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/appzic/layout-css-modules">
     </a>
