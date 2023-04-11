@@ -1,7 +1,7 @@
 # layout-css-modules
 
-## 0.0.1
+## 1.0.0
 
-### Patch Changes
+### Major Changes
 
 - First Release
